@@ -17,8 +17,7 @@ Hi, I'm Mohamed Yusri, Backend Developer 🚀 from Egypt
 
 ### 💎 Fav Quotes: 
 - "Think twice, code once". 
-- “Do today what others won't and achieve tomorrow what others can't”.
-- 
+- “Do today what others won't and achieve tomorrow what others can't”
 ### 👨🏻‍💻 Language and tools: 
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></img>
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></img>
