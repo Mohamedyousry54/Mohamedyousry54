@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Mohamed Yusri, Backend Developer 🚀 from Egypt
+Hi, I'm Mohamed Yusri, fullstack Developer 🚀 from Egypt
 
 - 🐱‍🏍 student at computer science,
 - 📫 You can reach me on : mohamedyousry373.d@gmail.com
